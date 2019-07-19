@@ -12,7 +12,7 @@ html {
 }
 body {
     margin: 0;
-    background-image:url(../assets/bg1.JPG);
+    background-image:url(../assets/bg1.jpg);
 }
 article,
 aside,
@@ -4640,13 +4640,13 @@ a.badge:focus {
     padding: 30px 15px;
     margin-bottom: 30px;
     color: inherit;
-    background-image: url(../assets/jumbotron.JPG);
+    background-image: url(../assets/jumbotron.jpg);
 }
 .jumbotrion {
     padding: 20px 10px;
     margin-bottom: 20px;
     color: inherit;
-    background-image: url(../assets/jumbotron.JPG);
+    background-image: url(../assets/jumbotron.jpg);
 }
 .jumbotron h1,
 .jumbotron .h1 {
